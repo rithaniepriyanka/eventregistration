@@ -10,4 +10,4 @@ class Participants(models.Model):
     instituition=models.CharField(max_length=50)
 
 class ParticipantsAdmin(admin.ModelAdmin):
-    list_display=("username","email","phone","institution")
+    list_display=("username","email","phone")
