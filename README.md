@@ -403,7 +403,7 @@ Publish the website in the given URL.
 
 ![output](./static/img/val1.png)
 ![output](./static/img/val2.png)
-![output](./static/img/val3.png)
+![output](./static/img/val3.jpeg)
 
 
 ## RESULT:
